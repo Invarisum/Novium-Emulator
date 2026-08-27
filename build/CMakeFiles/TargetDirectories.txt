@@ -1,0 +1,5 @@
+C:/Users/uchih/Novium Emulator/build/CMakeFiles/aism_core.dir
+C:/Users/uchih/Novium Emulator/build/CMakeFiles/aism_emulator.dir
+C:/Users/uchih/Novium Emulator/build/CMakeFiles/novium_emu.dir
+C:/Users/uchih/Novium Emulator/build/CMakeFiles/edit_cache.dir
+C:/Users/uchih/Novium Emulator/build/CMakeFiles/rebuild_cache.dir

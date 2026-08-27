@@ -1,0 +1,9 @@
+$timescale 1ns $end
+$scope module novium $end
+$var wire 32 s0 pc $end
+$upscope $end
+$enddefinitions $end
+#0
+b00000000000000000000000000000000 s0
+b00010100001000100001100000000000 s1
+b00000000000000000000000000000000 s2
