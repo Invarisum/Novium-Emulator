@@ -155,3 +155,21 @@ gcc -o build/test_c_abi.exe tests/test_c_abi.c build/libaism_core.a -Iinclude -s
 ## C++ Standard
 
 C++20 required.
+
+---
+
+##DEV notes
+
+-Hello. Molor Davaa here. The Solo Lead developer of Novium Emulator. Starting from today, we're dropping the "patch version" semantic, so we will use 'major.minor' semantic from now on every project we do. 
+
+---
+
+##Credits
+
+*Credits*: Thank you for Molor Davaa (@Uchiha Molsyh) for building this amazing project, and we wish you the best. 
+
+---
+
+##License
+
+This project is under MIT license(see from license file). This product is copyrighted. 
