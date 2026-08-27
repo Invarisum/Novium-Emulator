@@ -1,0 +1,7 @@
+#pragma once
+
+#define NOVIUM_VERSION_MAJOR 1
+#define NOVIUM_VERSION_MINOR 0
+#define NOVIUM_VERSION_PATCH 0
+#define NOVIUM_VERSION_STRING "v1.0.0"
+#define NOVIUM_VERSION_NAME "v1.0"
